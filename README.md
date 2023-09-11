@@ -22,5 +22,5 @@ If we apply a 'layer' of Hadamard gates to $n$ qubits, the system will be put in
     $H| 0 \rangle \otimes H| 0 \rangle  = \frac{1}{2}(| 00 \rangle + | 01 \rangle + | 10 \rangle + |11 \rangle)$
 </p>
 
-During measurement the output will therefore be chosen uniformly at random; in this case, the output will be '00', '01, '10', or '11', each with a 25% chance.
+During measurement the output will therefore be chosen uniformly at random with a probability of $\frac{1}{2^n}$; in this case, the output will be '00', '01, '10', or '11', each with a 25% chance.
 
