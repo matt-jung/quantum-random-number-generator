@@ -8,4 +8,6 @@
 </p>
 
 ## How does it work?
+In Quantum Computing, a Hadamard gate can be used to put a single qubit into an equal superposition of $ | 0 \rangle and | 1 \rangle $ states:
+
 
