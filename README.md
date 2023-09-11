@@ -1,4 +1,4 @@
-# quantum-random-number-generator
+# Quantum Random Number Generator
 <p align="center">
 
 Generates a random binary string using Qiskit simulations of a quantum circuit:
