@@ -10,4 +10,7 @@
 ## How does it work?
 In Quantum Computing, a Hadamard gate can be used to put a single qubit into an equal superposition of $| 0 \rangle$ and $| 1 \rangle$ states:
 
+<p align='center'>
+    $H | 0 \rangle = \frac{1}{\sqrt{2}} (| 0 \rangle + | 1 \rangle)
+
 
