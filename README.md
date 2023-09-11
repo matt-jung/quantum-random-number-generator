@@ -14,5 +14,7 @@ In Quantum Computing, a Hadamard gate can be used to put a single qubit into an 
     $H | 0 \rangle = \frac{1}{\sqrt{2}} (| 0 \rangle + | 1 \rangle)$
 </p>
 
-Upon measurement, there is then a 50/50 chance of finding the qubit in the $| 0 \rangle$ or $| 1 \rangle$ state.
+Upon measurement, there is then a 50% chance for the output '1' and 50% for '0'.
+
+
 
