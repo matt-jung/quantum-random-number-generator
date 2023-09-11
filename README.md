@@ -28,7 +28,9 @@ During measurement the output will therefore be chosen uniformly at random with 
 ### Building the Circuit
 When the user inputs a given length $n$, the program simulates a quantum circuit with $n$ qubits and puts them into a superposition of all possible states using a layer of Hadamard gates. Each qubit is then measured, giving a random binary string of length $n$ as the output.
 
+
+
 <p align="center">
-    ![qc](https://github.com/matt-jung/quantum-random-number-generator/assets/133035195/c4c74903-811d-4a80-b82f-14f0ccc41ca0)
+  <img width="212" alt="Screenshot 2023-09-12 at 06 16 01" src="[https://github.com/matt-jung/quantum-random-number-generator/assets/133035195/46e0d378-93c4-4916-bc05-195a1edee14d](https://github.com/matt-jung/quantum-random-number-generator/assets/133035195/51e601c8-93ed-46be-96eb-c53dc26f56e3)https://github.com/matt-jung/quantum-random-number-generator/assets/133035195/51e601c8-93ed-46be-96eb-c53dc26f56e3">
 </p>
 
