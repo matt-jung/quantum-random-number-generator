@@ -16,5 +16,10 @@ In Quantum Computing, a Hadamard gate can be used to put a single qubit into an 
 
 Upon measurement, there is then a 50% chance for the output '1' and 50% for '0'.
 
+If we apply a 'layer' of Hadamard gates to $n$ qubits, they system will be put into an equal superposition of all possible states:
+<p align='center'>
+    $H| 0 \rangle \otimes H| 0 \rangle \otimes ... \otimes H| 0 \rangle = | 0...0 \rangle + | 0...1 \rangle + ...$
+</p>
+
 
 
