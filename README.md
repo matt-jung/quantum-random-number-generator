@@ -30,3 +30,6 @@ When the user inputs a given length $n$, the program simulates a quantum circuit
 <p align="center">
     <img width="466" alt="Screenshot 2023-09-12 at 07 11 11" src="https://github.com/matt-jung/quantum-random-number-generator/assets/133035195/2aa85a08-d1b3-4a2e-bf04-dd48f35be13b">
 </p>
+<p align="center">
+    Example Quantum Circuit for $n=7$ qubits
+</p>
