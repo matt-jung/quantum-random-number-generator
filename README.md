@@ -1,6 +1,6 @@
 # quantum-random-number-generator
-Program that generates a random binary string of a given length using H gates.
+Generates a random binary string using Qiskit simulations of a quantum circuit
 
-For a given `length`, the program creates a `QuantumCircuit` object with qubit number equal to `length`.
-Hadamard gates are then applied to all qubits in the circuit, creating an equal superposition of all possible states.
-The circuit is then measured, and the result of the measurement is returned as the random binary string.
+<img width="212" alt="Screenshot 2023-09-12 at 06 16 01" src="https://github.com/matt-jung/quantum-random-number-generator/assets/133035195/46e0d378-93c4-4916-bc05-195a1edee14d">
+
+
