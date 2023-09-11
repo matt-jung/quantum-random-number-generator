@@ -1,6 +1,6 @@
 # Quantum Random Number Generator
 <p align="center">
-    Generates a random binary string of a given length generated via Qiskit
+    Generates a random binary string using Qiskit:
 </p>
 
 <p align="center">
