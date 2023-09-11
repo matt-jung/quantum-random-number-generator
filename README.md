@@ -8,6 +8,7 @@
 </p>
 
 ## How does it work?
+### Hadamard Gates
 In Quantum Computing, a Hadamard gate can be used to put a single qubit into an equal superposition of $| 0 \rangle$ and $| 1 \rangle$ states:
 
 <p align='center'>
@@ -23,4 +24,11 @@ If we apply a 'layer' of Hadamard gates to $n$ qubits, the system will be put in
 </p>
 
 During measurement the output will therefore be chosen uniformly at random with a probability of $\frac{1}{2^n}$; in this case, the output will be '00', '01, '10', or '11', each with a 25% chance.
+
+### Building the Circuit
+When the user inputs a given length $n$, the program simulates a quantum circuit with $n$ qubits and puts them into a superposition of all possible states using a layer of Hadamard gates. Each qubit is then measured, giving a random binary string of length $n$ as the output.
+
+<p align="center">
+    ![qc](https://github.com/matt-jung/quantum-random-number-generator/assets/133035195/c4c74903-811d-4a80-b82f-14f0ccc41ca0)
+</p>
 
